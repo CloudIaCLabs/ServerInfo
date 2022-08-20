@@ -1,2 +1,2 @@
 ServerInfo PowerShell Module will help gather details from Microsft Windows servers.
-- This module was last tested with Win2k16 Server environment
+- This module & functions were tested in Microsoft Windows 2016 Server environment
