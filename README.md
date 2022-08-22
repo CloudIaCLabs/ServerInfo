@@ -5,8 +5,9 @@ ServerInfo PowerShell Module goal is to consolidate all commands used on daily b
 List of Functions in this Module: <br/>
 Get-Uptime <br/>
 Get-OSInfo  <br/>
-Get-Reboothistory  <br/>
-Get-Patchistory    <br/>
+
+Get-Reboothistory [Under Development ..] <br/>
+Get-Patchistory   [Under Development ..]   <br/>
 
 
 
@@ -14,6 +15,7 @@ Example usage: <br/>
 1) Get-Uptime <br/>
 2) Get-Content servers.txt | Get-Uptime <br/>
 3) Get-Content servers.txt | Get-Uptime | Export-Csv C:\Temp\test.csv <br/>
+
 
 1) Get-OSInfo <br/>
 2) Get-Content servers.txt | Get-OSInfo <br/>
