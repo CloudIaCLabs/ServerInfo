@@ -6,8 +6,9 @@ List of Functions in this Module: <br/>
 Get-Uptime <br/>
 Get-OSInfo  <br/>
 
-Get-Reboothistory [Under Development ..] <br/>
-Get-Patchistory   [Under Development ..]   <br/>
+Get-InstalledSoftware   <br/>
+Get-Reboothistory <br/>
+Get-Patchistory   <br/>
 
 
 
@@ -20,4 +21,10 @@ Example usage: <br/>
 1) Get-OSInfo <br/>
 2) Get-Content servers.txt | Get-OSInfo <br/>
 3) Get-Content servers.txt | Get-OSInfo | Export-Csv C:\Temp\test.csv <br/>
+
+
+
+Note: to find help for a function and its usage, please check
+
+PS > Get-Help Get-InstalledSoftware
 
