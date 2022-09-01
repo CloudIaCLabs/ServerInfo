@@ -24,7 +24,8 @@ Example usage: <br/>
 
 
 
-Note: to find help for a function and its usage, please check
+Note: 
+To find help for a function and its usage, please check
 
 PS > Get-Help Get-InstalledSoftware
 
