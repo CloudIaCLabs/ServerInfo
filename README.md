@@ -1,6 +1,6 @@
-ServerInfo PowerShell Module goal is to consolidate all commands used on daily basis in a re-usable format in one place so that they can be re-used and enhanced avoiding repeat re-writing of same scripts to accomplish same task. <br/>
+ServerInfo PowerShell Module goal is to consolidate all commands used on daily basis in a re-usable format in one place so that they can be re-used and enhanced avoiding repeat re-writing of same scripts to accomplish daily tasks. <br/>
 - Keep function format same where possible to promote functionality, security, learning, simplicity, readability  <br/>
-- This module & functions were tested in Microsoft Windows 2016 Server environment  <br/>
+- This module & functions were last tested in Microsoft Windows 2016 Server environment  <br/>
 
 List of Functions in this Module: <br/>
 Get-Uptime <br/>
